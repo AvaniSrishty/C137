@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.header{
+    width:100%;
+    color:black;
+    font-size:23px;
+
+}
+
+.input_class{
+    width:300px;
+}
+
+p{
+    color:white;
+    font-size: 18px;
+}
+
+.object_name_label{
+    color:aqua;
+}
+
+canvas{
+    border-color:lightgray;
+    border-width: 7px;
+    border-style: solid;
+    box-shadow:  18px -13px 22px rgb(93, 197, 218);
+}
